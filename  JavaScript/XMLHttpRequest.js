@@ -1,5 +1,5 @@
 var formData = new FormData();
-formData.append("type", type);
+formData.append("field_name", "value");
 
 var myAPI = "/path-to-api.php";
 var xmlhttp = new XMLHttpRequest();
