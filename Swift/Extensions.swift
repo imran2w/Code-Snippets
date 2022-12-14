@@ -1,11 +1,3 @@
-//
-//  MyExtension.swift
-//  Azhar Masjid
-//
-//  Created by ALI IMRAN on 1/5/19.
-//  Copyright © 2019 Sign Soft Ltd. All rights reserved.
-//
-
 import Foundation
 import UIKit
 
